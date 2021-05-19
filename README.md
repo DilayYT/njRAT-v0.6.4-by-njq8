@@ -8,7 +8,6 @@ Through Disk
 Script: VBS, html, bat, txt etc.
 - Desktop Control
 - Control Camera / cam
-- Control can cmd to review DDoS bot
 - The process manager / task manager
 - Keylogger: Seeing Anything That goal has typed on pc
 - Create message: to chat Jump WITH Victims

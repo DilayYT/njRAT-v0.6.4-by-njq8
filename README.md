@@ -21,3 +21,4 @@ Resolve Network
 Change the name in
 Remove
 ## Screenshots
+![njRAT v0 6 4](https://user-images.githubusercontent.com/65458800/118783317-a273c280-b897-11eb-8993-93f49f162a93.png)
